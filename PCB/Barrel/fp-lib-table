@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "UP20_C_F_G_FL_P12_TR")(type "KiCad")(uri "Z:/Projects/WLED-Controller/PCB/Resources/UP20_C_F_G_FL_P12_TR")(options "")(descr ""))
+  (lib (name "PJ_002A")(type "KiCad")(uri "Z:/Projects/WLED-Controller/PCB/Resources/PJ_002A")(options "")(descr ""))
+)
