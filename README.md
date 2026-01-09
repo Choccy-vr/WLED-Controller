@@ -14,7 +14,7 @@ I made this because these WS2812B strips and WLED look so good, but all the othe
 ### BOM
 |Product Name      |Product Description     |Product Link                                                                                          |Product unit price|Product amount|Product Cost|Total (Before Tax + Shipping)|Total|
 |------------------|------------------------|------------------------------------------------------------------------------------------------------|------------------|--------------|------------|-----------------------------|-----|
-|Main PCB(A)       |The main control PCB    |https://jlcpcb.com/                                                                                   |$8.71             |5             |$43.56      |$67.38                       |$    |
+|Main PCB(A)       |The main control PCB    |https://jlcpcb.com/                                                                                   |$8.71             |5             |$43.56      |$67.38                       |$75.42    |
 |Sata Adapter PCB  |Sata adapter            |https://jlcpcb.com/                                                                                   |$1.02             |5             |$5.10       |                             |     |
 |Barrel Adapter PCB|Barrel adapter          |https://jlcpcb.com/                                                                                   |$1.02             |5             |$5.10       |                             |     |
 |Antenna           |Antenna                 |https://www.digikey.com/en/products/detail/pulse-electronics/ANT3216A063R2400A/3927186                |$0.22             |1             |$0.22       |                             |     |
