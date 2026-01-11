@@ -1,16 +1,16 @@
 # WLED-Controller
-A all in one controller for ws2812b led strips made for WLED. With Adapters for LEDs everywhere.
+An all-in-one controller for WS2812B LED strips, made for WLED. With Adapters for LEDs everywhere.
 
 I made this because these WS2812B strips and WLED look so good, but all the other WLED controllers are quite expensive, and I would rather make it by myself. I set out to make it as small as possible, even if that means making it harder for me.
 
 On the controller PCB, I integrated basically a esp32 c3 supermini. That is the bulk of it, but I also put some capacitors on the LED PWR line for smoothing the power out. I also added a P-channel MOSFET to allow for a soft start.
 
-The various adapter PCBs adapt the specified port into 5v and GND and output it to a USB-C inspired by Framework's modules
+The various adapter PCBs adapt the specified port into 5v and GND and output it to a USB-C, inspired by Framework's modules
 
 ### Images:
 ![](https://github.com/Choccy-vr/WLED-Controller/blob/main/images/USB-WLED-Controller.png)
 #### Schematic
-![]()
+![](https://github.com/Choccy-vr/WLED-Controller/blob/main/images/PCB-Schematic.png)
 #### Adapters
 ##### SATA Adapter
 ![](https://github.com/Choccy-vr/WLED-Controller/blob/main/images/Sata_Adapter.png)
